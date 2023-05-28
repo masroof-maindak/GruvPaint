@@ -5,7 +5,8 @@
 2. Colour dropper
 3. Shapes -> rectangle/curve/circle/line/oval/star
 4. Magnifying glass
-5. Generic N-sided polygon drawer
-6. Select > Move OR Clear
-7. Clear screen
-8. Save/Load image onto canvas
+5. Fill tool w/ user-input precision levels
+6. Generic N-sided polygon drawer
+7. Select > Move OR Clear
+8. Clear screen
+9. Save/Load image onto canvas
