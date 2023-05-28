@@ -1,2 +1,11 @@
-# GruvPaint
-A Python-based, Gruvbox-themed Paint clone designed with Tkinter and Pillow as a university project.
+![Screenshot](https://github.com/MujtabaAsim/GruvPaint/assets/62666332/fd769735-8d1b-47ae-b10e-74ffb69cbc8b)
+
+### Features
+1. Pen & Eraser w/ adjustable width
+2. Colour dropper
+3. Shapes -> rectangle/curve/circle/line/oval/star
+4. Magnifying glass
+5. Generic N-sided polygon drawer
+6. Select > Move OR Clear
+7. Clear screen
+8. Save/Load image onto canvas
