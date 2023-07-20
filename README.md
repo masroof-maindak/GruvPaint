@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/MujtabaAsim/GruvPaint/assets/62666332/fd769735-8d1b-47ae-b10e-74ffb69cbc8b)
+![1689878966](https://github.com/MujtabaAsim/GruvPaint/assets/62666332/203ec248-1580-454d-b5ec-7dfdf1adefe1)
 
 ### Features
 1. Pen & Eraser w/ adjustable width
